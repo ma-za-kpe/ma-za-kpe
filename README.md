@@ -7,6 +7,7 @@
 - Reciept scanner. (NOT YET BUILT)
 - jog-mark, an app that uses breaks as markers for when you rest on your jogging trail. (NOT YET BUILT)
 - Neumorphic Calculator. (NOT YET BUILT)
+- Virtual candle light, a system that lets users light virtual candles from other countries to show support. (NOT YET BUILT)
 
 <!--
 **ma-za-kpe/ma-za-kpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
