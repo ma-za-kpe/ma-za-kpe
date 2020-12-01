@@ -1,7 +1,7 @@
 ### 👋 there, 
 ### I'm [Maku](https://www.maku.dev/), nice to meet you. 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ma-za-kpe&label=Views&color=blue&style=plastic" alt="gurupreet" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ma-za-kpe&label=Views&color=blue&style=plastic" alt="ma-za-kpe" /> </p>
 
 <a href="https://twitter.com/ma_za_kpe">
   <img align="left" alt="
