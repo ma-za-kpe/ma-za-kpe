@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on [whistle_blower](https://github.com/ma-za-kpe/WhisBlower)
 - 🌱 I’m currently learning best practices for creating android applications.
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on building the ideas below 👇
 - 🤔 I’m looking for help with applications that can help people struggling with Mental health problems
 - 💬 Ask me about Android
 - 📫 How to reach me: [maku](makpalyy@gmail.com)
