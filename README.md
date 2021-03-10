@@ -17,11 +17,11 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on [whistle_blower](https://github.com/ma-za-kpe/WhisBlower)
-- 🌱 I’m currently learning best practices for creating android applications.
+- 🔭 I’m currently working on [Bokmoks](https://bokmoks-2f4ba.web.app/)
+- 🌱 I’m currently learning to create web apps to fit certain use cases.
 - 👯 I’m looking to collaborate on building the ideas below 👇
 - 🤔 I’m looking for help with applications that can help people struggling with Mental health problems
-- 💬 Ask me about Android
+- 💬 Ask me about anything.
 - 📫 How to reach me: [maku](makpalyy@gmail.com)
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: I have alot of the "proverbial" light bulb moments, and go.. AHAAA... this is when random ideas get into my head.
