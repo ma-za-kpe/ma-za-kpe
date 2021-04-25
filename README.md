@@ -18,13 +18,13 @@
 <br/>
 
 - 🔭 I’m currently working on [BusinessRepo UI](https://angry-ramanujan-b80ca5.netlify.app/)
-- 🌱 I’m currently learning to create Android applications using the best practices in the industry.
+- 🌱 I’m currently appreciating programming languages and technologies as problem solving tools.
 - 👯 I’m looking to collaborate on building the ideas below 👇
 - 🤔 I’m looking for help with applications that can help people struggling with Mental health problems
 - 💬 Ask me about anything.
 - 📫 How to reach me: [maku](makpalyy@gmail.com)
 - 😄 Pronouns: She / Her
-- ⚡ Fun fact: I have alot of the "proverbial" light bulb moments, and go.. AHAAA... this is when random ideas get into my head.
+- ⚡ Fun fact: Im pretty normal.
 
 ## List of ideas.
 ### I have a long list of ideas id love to build,😄.
