@@ -19,12 +19,9 @@
 
 - 🔭 I’m currently working on [BusinessRepo UI](https://angry-ramanujan-b80ca5.netlify.app/)
 - 🌱 I’m currently appreciating programming languages and technologies as problem solving tools.
-- 👯 I’m looking to collaborate on building the ideas below 👇
-- 🤔 I’m looking for help with applications that can help people struggling with Mental health problems
-- 💬 Ask me about anything.
+- 👯 I’m looking to have conversations regarding developer well being(mental health) and productivity. Also to collaborate on the ideas below👇
 - 📫 How to reach me: [maku](makpalyy@gmail.com)
 - 😄 Pronouns: She / Her
-- ⚡ Fun fact: Im pretty normal.
 
 ## List of ideas.
 ### I have a long list of ideas id love to build,😄.
