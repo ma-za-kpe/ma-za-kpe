@@ -21,7 +21,6 @@
 - 🌱 I’m currently appreciating programming languages and technologies as problem solving tools.
 - 👯 I’m looking to have conversations regarding developer well being(mental health) and productivity.
 - 📫 How to reach me: [maku](makpalyy@gmail.com)
-- 😄 Pronouns: She / Her
 
 <!-- ## List of ideas.
 ### I have a long list of ideas id love to build,😄. -->
