@@ -17,9 +17,9 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on [AeroTime Android app](https://play.google.com/store/apps/details?id=com.maku.aerotime)
+- 🔭 I’m currently working on the [Pelel Android app and Backend end (PHP laravel/lumen)](https://play.google.com/store/apps/details?id=com.pelel.pelelapp)
 - 🌱 I’m currently appreciating programming languages and technologies as problem solving tools.
-- 👯 I’m looking to have conversations regarding developer well being(mental health) and productivity.
+- 👯 I’m looking to work in a company that appreciates there developers and value their well being and productiviy.
 - 📫 How to reach me: [maku](makpalyy@gmail.com)
 
 <!-- ## List of ideas.
