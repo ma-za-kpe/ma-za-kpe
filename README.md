@@ -18,8 +18,8 @@
 <br/>
 
 - 🔭 I’m currently working on the [Pelel Android app, Backend end (PHP laravel/lumen), Front end (VueJS Open source template)](https://pelelenterprises.com/)
-- 🌱 I’m currently appreciating programming languages and technologies as problem solving tools.
-- 👯 I’m looking to work in a company that appreciates there developers and values their well being and productiviy.
+<!-- - 🌱 I’m currently appreciating programming languages and technologies as problem solving tools. -->
+<!-- - 👯 I’m looking to work in a company that appreciates there developers and values their well being and productiviy. -->
 - 📫 How to reach me: [maku](makpalyy@gmail.com)
 
 <!-- ## List of ideas.
