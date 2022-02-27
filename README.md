@@ -3,13 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ma-za-kpe&label=Views&color=blue&style=plastic" alt="ma-za-kpe" /> </p>
 
-<a href="https://twitter.com/ma_za_kpe">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/maku-mazakpe-700a3a165/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 </br>
 </br>
 
@@ -17,6 +10,12 @@
 <!-- - 🌱 I’m currently appreciating programming languages and technologies as problem solving tools. -->
 <!-- - 👯 I’m looking to work in a company that appreciates there developers and values their well being and productiviy. -->
 - 📫 How to reach me: [maku](makpalyy@gmail.com)
+ <a href="https://twitter.com/ma_za_kpe">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/maku-mazakpe-700a3a165/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 <!-- ## List of ideas.
 ### I have a long list of ideas id love to build,😄. -->
