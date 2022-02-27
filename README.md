@@ -1,6 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,
-### I'm [Maku](https://www.maku.dev/), nice to meet you. 
-</br>
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm [Maku](https://www.maku.dev/), nice to meet you. 
 </br>
 
 - 🔭 I’m currently working on the [Pelel Android app, Backend end (PHP laravel/lumen), Front end (VueJS Open source template)](https://pelelenterprises.com/)
