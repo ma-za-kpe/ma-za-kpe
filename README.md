@@ -1,5 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ma-za-kpe&label=Views&color=blue&style=plastic" alt="ma-za-kpe" /> </p>
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm [Maku](https://www.maku.dev/), nice to meet you. 
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, 
+### I'm [Maku](https://www.maku.dev/), nice to meet you. 
 </br>
 
 - 🔭 I’m currently working on the [Pelel Android app, Backend end (PHP laravel/lumen), Front end (VueJS Open source template)](https://pelelenterprises.com/)
@@ -7,10 +8,10 @@
 <!-- - 👯 I’m looking to work in a company that appreciates there developers and values their well being and productiviy. -->
 - 📫 How to reach me: [maku](makpalyy@gmail.com)
  <a href="https://twitter.com/ma_za_kpe">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Maku Mazakpe | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/maku-mazakpe-700a3a165/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Maku's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> 
 
 <!-- ## List of ideas.
