@@ -1,9 +1,9 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, 
 ### I'm [Maku](https://www.maku.dev/), nice to meet you. 
 
-- 🔭 I’m currently working on the open source [Pombe - Cocktails App](https://github.com/ma-za-kpe/Pombe)
+- 🔭 I’m currently contributing to the open source [Oppia Android app](https://github.com/oppia/oppia-android)
 
-- 🔭 I previously worked on the [Pelel Android app, Backend end (PHP laravel/lumen), Front end (VueJS Open source template)](https://pelelenterprises.com/)
+<!-- - 🔭 I previously worked on the [Pelel Android app, Backend end (PHP laravel/lumen), Front end (VueJS Open source template)](https://pelelenterprises.com/) -->
 <!-- - 🌱 I’m currently appreciating programming languages and technologies as problem solving tools. -->
 <!-- - 👯 I’m looking to work in a company that appreciates there developers and values their well being and productiviy. -->
 - 📫 How to reach me: [maku](makpalyy@gmail.com)
