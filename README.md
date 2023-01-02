@@ -1,7 +1,7 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, 
 ### I'm [Maku](https://www.maku.dev/), nice to meet you. 
 
-- 🔭 I’m currently contributing to the open source [Oppia Android app](https://github.com/oppia/oppia-android)
+- 🔭 I’ve contributed to the open source [Oppia Android app](https://github.com/oppia/oppia-android)
 
 <!-- - 🔭 I previously worked on the [Pelel Android app, Backend end (PHP laravel/lumen), Front end (VueJS Open source template)](https://pelelenterprises.com/) -->
 <!-- - 🌱 I’m currently appreciating programming languages and technologies as problem solving tools. -->
@@ -21,7 +21,11 @@
  Pombe | ![vid](https://user-images.githubusercontent.com/28810111/210250702-13146320-f693-4244-9b10-bdcbbfd80151.gif)
  Links | [source code](https://github.com/ma-za-kpe/Pombe), [Playstore]( https://play.google.com/store/apps/details?id=com.maku.pombez&pli=1)
  
-
+ | Name | Demo            |  
+:-------------------------:|:-------------------------:
+ My-Fitness | <video src="https://user-images.githubusercontent.com/28810111/210252457-5d7b4a47-dfc9-4a6c-bfd2-f36f4f9a6a80.mp4" controls="controls" style="max-width: 730px;"></video>
+ Links | [source code](https://github.com/ma-za-kpe/MyFitness)
+ 
 
 <!-- ## List of ideas.
 ### I have a long list of ideas id love to build,😄. -->
