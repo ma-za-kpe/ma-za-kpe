@@ -15,6 +15,13 @@
 </a> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ma-za-kpe&label=Views&color=blue&style=plastic" alt="ma-za-kpe" /> </p>
 
+## PROJECTS I'VE WORKED ON (source code, playstore, article links may be included in some).
+| Name | Demo            |  
+:-------------------------:|:-------------------------:
+ Pombe | ![vid](https://user-images.githubusercontent.com/28810111/210250702-13146320-f693-4244-9b10-bdcbbfd80151.gif)
+ Links | [source code](https://github.com/ma-za-kpe/Pombe), [Playstore]( https://play.google.com/store/apps/details?id=com.maku.pombez&pli=1)
+ 
+
 
 <!-- ## List of ideas.
 ### I have a long list of ideas id love to build,😄. -->
