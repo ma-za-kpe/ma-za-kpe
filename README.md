@@ -3,10 +3,21 @@
 ### I'm [Maku](https://github.com/ma-za-kpe/ma-za-kpe), nice to meet you. 
 
 - 🔭 I’ve contributed to the open source [Oppia Android app](https://github.com/oppia/oppia-android)
+- Ive previously worked at E-limu kenya, Pelel enterprises, Accenture kenya.
+- Ive worked in industries such at Ed-tech, and Food & Beverages, Agriculture and Security(UI-designer on native android)
+- Ive worked in teams where we use design tools like AdobeXD, figma and zepline while collaborating with desingers.
+- Im experinced with version control tool like git, github, gitlab and bitbucket.
+- Im accustomed to applying agile methodologies.
+- I have experince working with, but not limited to, Clean code principles like TDD, Repository pattern, usecases, domain layer, MVVM, data layer, 
+  state management, reactione programming (Live data, Kotlin Flow, Rx(to lesser extent)
+- I dont know everything in Android, therefore that makes me a student in many apsects of the word. With 5 years writing software, Ive learned to learn on the go and write clean, optimized and simplistic code as a result.
+- I prefer working in a Team. However, im no starnger to being a Solo developer(as ive done so on some projects)
+- Occassionally, i write webapps using veujs, laravel, html, css, etc. This goes to show that i can easily adapt to the buisness needs and new objectives.
+
 
 <!-- - 🔭 I previously worked on the [Pelel Android app, Backend end (PHP laravel/lumen), Front end (VueJS Open source template)](https://pelelenterprises.com/) -->
 <!-- - 🌱 I’m currently appreciating programming languages and technologies as problem solving tools. -->
-<!-- - 👯 I’m looking to work in a company that appreciates there developers and values their well being and productiviy. -->
+- 👯 I’m looking to work in a company that appreciates there developers and values their well being and productiviy.
 - 📫 How to reach me: [maku](makpalyy@gmail.com)
  <a href="https://twitter.com/ma_za_kpe">
   <img align="left" alt="Maku twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -20,7 +31,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ma-za-kpe&label=Views&color=blue&style=plastic" alt="ma-za-kpe" /> </p>
 
 ## PROJECTS I'VE WORKED ON (source code, playstore, article links may be included in some).
-- A mishmash or toy projects and interview projects.
+- A mishmash or toy projects and interview projects. Note that there are many more on my main github repository list.
 
 | Name | Demo            |  
 :-------------------------:|:-------------------------:
