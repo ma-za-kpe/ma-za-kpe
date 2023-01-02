@@ -26,6 +26,11 @@
  My-Fitness | <video src="https://user-images.githubusercontent.com/28810111/210252457-5d7b4a47-dfc9-4a6c-bfd2-f36f4f9a6a80.mp4" controls="controls" style="max-width: 730px;"></video>
  Links | [source code](https://github.com/ma-za-kpe/MyFitness)
  
+  | Name | Demo            |  
+:-------------------------:|:-------------------------:
+ Edvora Rides | ![ev](https://user-images.githubusercontent.com/28810111/210253430-633a49f8-eecc-453e-a4ab-8b9d21212fab.png)
+ Links | [source code](https://github.com/ma-za-kpe/EdvoraRideApp)
+ 
 
 <!-- ## List of ideas.
 ### I have a long list of ideas id love to build,😄. -->
