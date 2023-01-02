@@ -1,5 +1,6 @@
+# OPEN TO NEW OPPORTUNITIES, reach out to me here: [maku](makpalyy@gmail.com)
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, 
-### I'm [Maku](https://www.maku.dev/), nice to meet you. 
+### I'm [Maku](https://github.com/ma-za-kpe/ma-za-kpe), nice to meet you. 
 
 - 🔭 I’ve contributed to the open source [Oppia Android app](https://github.com/oppia/oppia-android)
 
@@ -8,7 +9,10 @@
 <!-- - 👯 I’m looking to work in a company that appreciates there developers and values their well being and productiviy. -->
 - 📫 How to reach me: [maku](makpalyy@gmail.com)
  <a href="https://twitter.com/ma_za_kpe">
-  <img align="left" alt="Maku Mazakpe | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Maku twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+ <a href="https://twitter.com/ma_za_kpe](https://www.youtube.com/channel/UCmxgU411Ib8KV879s8NDZ_A">
+  <img align="left" alt="Maku Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 <a href="https://www.linkedin.com/in/maku-mazakpe-700a3a165/">
   <img align="left" alt="Maku's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -16,6 +20,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ma-za-kpe&label=Views&color=blue&style=plastic" alt="ma-za-kpe" /> </p>
 
 ## PROJECTS I'VE WORKED ON (source code, playstore, article links may be included in some).
+- A mishmash or toy projects and interview projects.
+
 | Name | Demo            |  
 :-------------------------:|:-------------------------:
  Pombe | ![vid](https://user-images.githubusercontent.com/28810111/210250702-13146320-f693-4244-9b10-bdcbbfd80151.gif)
@@ -30,6 +36,16 @@
 :-------------------------:|:-------------------------:
  Edvora Rides | ![ev](https://user-images.githubusercontent.com/28810111/210253430-633a49f8-eecc-453e-a4ab-8b9d21212fab.png)
  Links | [source code](https://github.com/ma-za-kpe/EdvoraRideApp)
+ 
+  | Name | Demo            |  
+:-------------------------:|:-------------------------:
+ IntrovertOrExtrover | ![exin](https://user-images.githubusercontent.com/28810111/210253750-2f4fdfaf-a471-4750-8de4-890d15992c5a.gif)
+ Links | [source code](https://github.com/ma-za-kpe/IntrovertOrExtrover)
+ 
+  | Name | Demo            |  
+:-------------------------:|:-------------------------:
+ Weather App | <video src="https://user-images.githubusercontent.com/28810111/210254393-9fbfb7ee-2eb4-46c7-b9be-eed1fe096a9b.mp4" controls="controls" style="max-width: 730px;"></video>
+ Links | [source code](https://github.com/ma-za-kpe/interview_weather_app)
  
 
 <!-- ## List of ideas.
