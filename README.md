@@ -30,8 +30,7 @@
 </a> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ma-za-kpe&label=Views&color=blue&style=plastic" alt="ma-za-kpe" /> </p>
 
-## PROJECTS I'VE WORKED ON (source code, playstore, article links may be included in some).
-- A mishmash or toy projects and interview projects. Note that there are many more on my main github repository list.
+## PROJECTS (source code, playstore, article links may be included in some).
 
 | Name | Demo            |  
 :-------------------------:|:-------------------------:
