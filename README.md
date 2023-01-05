@@ -39,7 +39,7 @@
  
  | Name | Demo            |  
 :-------------------------:|:-------------------------:
- My-Fitness | <video src="https://user-images.githubusercontent.com/28810111/210286790-48a914d3-37ae-44a6-b170-9bf8e4143585.mp4" controls="controls" style="max-width: 730px;"></video>
+ My-Fitness | <video src="https://user-images.githubusercontent.com/28810111/210895322-3029e55a-f43f-474f-886c-f70af7741ebe.mp4" controls="controls" style="max-width: 730px;"></video>
  Links | [source code](https://github.com/ma-za-kpe/MyFitness)
  
   | Name | Demo            |  
