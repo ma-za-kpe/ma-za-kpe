@@ -39,7 +39,7 @@
  
  | Name | Demo            |  
 :-------------------------:|:-------------------------:
- My-Fitness | <video src="https://user-images.githubusercontent.com/28810111/210895322-3029e55a-f43f-474f-886c-f70af7741ebe.mp4" controls="controls" style="max-width: 730px;"></video>
+ My-Fitness | <video src="https://user-images.githubusercontent.com/28810111/211173504-4f7dea44-ecb7-4813-bda9-2c8afa47228b.mp4" controls="controls" style="max-width: 730px;"></video>
  Links | [source code](https://github.com/ma-za-kpe/MyFitness) , [Play store](https://play.google.com/store/apps/details?id=com.maku.myfitness)
  
   | Name | Demo            |  
