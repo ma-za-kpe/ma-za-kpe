@@ -1,4 +1,4 @@
-# OPEN TO NEW OPPORTUNITIES, reach out to me here: [maku](makpalyy@gmail.com)
+# OPEN TO NEW OPPORTUNITIES.
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, 
 ### I'm [Maku](https://github.com/ma-za-kpe/ma-za-kpe), nice to meet you. 
 
