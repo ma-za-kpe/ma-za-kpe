@@ -2,6 +2,7 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, 
 ### I'm [Maku](https://github.com/ma-za-kpe/ma-za-kpe), nice to meet you. 
 
+- currently working on [Airtime & Compose](https://github.com/ma-za-kpe/ComposeWithAfricasTalking)
 - 🔭 I’ve contributed to the open source [Oppia Android app](https://github.com/oppia/oppia-android)
 - Ive previously worked at E-limu kenya, Pelel enterprises, Accenture kenya.
 - Ive worked in industries such at Ed-tech, and Food & Beverages, Agriculture and Security(UI-designer on native android)
