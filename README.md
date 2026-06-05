@@ -1,71 +1,218 @@
-# OPEN TO NEW OPPORTUNITIES.
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, 
-### I'm [Maku](https://github.com/ma-za-kpe/ma-za-kpe), nice to meet you. 
+<div align="center">
 
-- currently working on [Airtime & Compose](https://github.com/ma-za-kpe/ComposeWithAfricasTalking)
-- 🔭 I’ve contributed to the open source [Oppia Android app](https://github.com/oppia/oppia-android)
-- Ive previously worked at E-limu kenya, Pelel enterprises, Accenture kenya.
-- Ive worked in industries such at Ed-tech, and Food & Beverages, Agriculture and Security(UI-designer on native android)
-- Ive worked in teams where we use design tools like AdobeXD, figma and zepline while collaborating with desingers.
-- Im experinced with version control tool like git, github, gitlab and bitbucket.
-- Im accustomed to applying agile methodologies.
-- I have experince working with, but not limited to, Clean code principles like TDD, Repository pattern, usecases, domain layer, MVVM, data layer, 
-  state management, reactione programming (Live data, Kotlin Flow, Rx(to lesser extent)
-- I dont know everything in Android, therefore that makes me a student in many apsects of the word. With 5 years writing software, Ive learned to learn on the go and write clean, optimized and simplistic code as a result.
-- I prefer working in a Team. However, im no starnger to being a Solo developer(as ive done so on some projects)
-- Occassionally, i write webapps using veujs, laravel, html, css, etc. This goes to show that i can easily adapt to the buisness needs and new objectives.
+<!-- Animated gradient header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:7c3aed&height=220&section=header&text=Maku%20Mazakpe&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B2B%20Agent%20Intelligence%20Architect%20%7C%20Production%20AI%20Engineer&descSize=18&descAlignY=55&descColor=94a3b8" width="100%"/>
 
+<br/>
 
-<!-- - 🔭 I previously worked on the [Pelel Android app, Backend end (PHP laravel/lumen), Front end (VueJS Open source template)](https://pelelenterprises.com/) -->
-<!-- - 🌱 I’m currently appreciating programming languages and technologies as problem solving tools. -->
-- 👯 I’m looking to work in a company that appreciates there developers and values their well being and productiviy.
-- 📫 How to reach me: [maku](makpalyy@gmail.com)
- <a href="https://twitter.com/ma_za_kpe">
-  <img align="left" alt="Maku twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
- <a href="https://twitter.com/ma_za_kpe](https://www.youtube.com/channel/UCmxgU411Ib8KV879s8NDZ_A">
-  <img align="left" alt="Maku Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-</a>
-<a href="https://www.linkedin.com/in/maku-mazakpe-700a3a165/">
-  <img align="left" alt="Maku's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ma-za-kpe&label=Views&color=blue&style=plastic" alt="ma-za-kpe" /> </p>
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=I+turn+data+platforms+into+agent-native+intelligence+products;x402+%7C+MCP+%7C+LangGraph+%7C+Multi-LLM+%7C+Africa-built%2C+global-grade)](https://startuptribunal.com/maku)
 
-## PROJECTS (source code, playstore, article links may be included in some).
+<br/>
 
-| Name | Demo            |  
-:-------------------------:|:-------------------------:
- Pombe | ![vid](https://user-images.githubusercontent.com/28810111/210250702-13146320-f693-4244-9b10-bdcbbfd80151.gif)
- Links | [source code](https://github.com/ma-za-kpe/Pombe), [Playstore]( https://play.google.com/store/apps/details?id=com.maku.pombez&pli=1)
- 
- | Name | Demo            |  
-:-------------------------:|:-------------------------:
- My-Fitness | <video src="https://user-images.githubusercontent.com/28810111/211173504-4f7dea44-ecb7-4813-bda9-2c8afa47228b.mp4" controls="controls" style="max-width: 730px;"></video>
- Links | [source code](https://github.com/ma-za-kpe/MyFitness) , [Play store](https://play.google.com/store/apps/details?id=com.maku.myfitness)
- 
-  | Name | Demo            |  
-:-------------------------:|:-------------------------:
- Edvora Rides | ![ev](https://user-images.githubusercontent.com/28810111/210253430-633a49f8-eecc-453e-a4ab-8b9d21212fab.png)
- Links | [source code](https://github.com/ma-za-kpe/EdvoraRideApp)
- 
-  | Name | Demo            |  
-:-------------------------:|:-------------------------:
- IntrovertOrExtrover | ![exin](https://user-images.githubusercontent.com/28810111/210253750-2f4fdfaf-a471-4750-8de4-890d15992c5a.gif)
- Links | [source code](https://github.com/ma-za-kpe/IntrovertOrExtrover)
- 
-  | Name | Demo            |  
-:-------------------------:|:-------------------------:
- Weather App | <video src="https://user-images.githubusercontent.com/28810111/210254393-9fbfb7ee-2eb4-46c7-b9be-eed1fe096a9b.mp4" controls="controls" style="max-width: 730px;"></video>
- Links | [source code](https://github.com/ma-za-kpe/interview_weather_app)
- 
+<!-- Quick links -->
+<a href="https://startuptribunal.com/maku"><img src="https://img.shields.io/badge/🔗_Hire_Me-startuptribunal.com/maku-0f172a?style=for-the-badge&labelColor=1e40af" /></a>
+<a href="https://startuptribunal.com/api/agent/schema"><img src="https://img.shields.io/badge/🤖_Agent_API-Live-10b981?style=for-the-badge&labelColor=064e3b" /></a>
+<a href="https://startuptribunal.com/agent-api"><img src="https://img.shields.io/badge/📖_Docs-agent--api-7c3aed?style=for-the-badge&labelColor=3b0764" /></a>
 
-<!-- ## List of ideas.
-### I have a long list of ideas id love to build,😄. -->
+<br/><br/>
 
-<!-- - Play pal, An app that lets multiple people play music in a queue, at a party. (NOT YET BUILT)
-- Swear cash, ML project to count how many times people curse. (NOT YET BUILT)
-- Under the Crown Promotion, an app that automates this promoton. (NOT YET BUILT)
-- Reciept scanner. (NOT YET BUILT)
-- jog-mark, an app that uses breaks as markers for when you rest on your jogging trail. (NOT YET BUILT)
-- Neumorphic Calculator. (NOT YET BUILT)
-- Virtual candle light, a system that lets users light virtual candles from other countries to show support. (NOT YET BUILT) -->
+<!-- Stats -->
+<img src="https://img.shields.io/badge/Production_AI_Systems-5%2B_years-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Infra_Cost-$61%2Fmo-green?style=flat-square" />
+<img src="https://img.shields.io/badge/Catalog-1%2C583_ideas-purple?style=flat-square" />
+<img src="https://img.shields.io/badge/Uptime-99.9%25-brightgreen?style=flat-square" />
+<img src="https://img.shields.io/badge/Agent_Payments-x402_USDC-orange?style=flat-square" />
+
+</div>
+
+---
+
+## 🧠 What I Do
+
+```typescript
+const maku = {
+  title: "B2B Agent Intelligence Architect",
+  location: "Accra, Ghana → Global",
+  focus: [
+    "Turn data platforms into agent-native revenue streams",
+    "x402 USDC micropayments on Base for AI agents",
+    "MCP server implementation (Claude, Cursor, Windsurf auto-discover)",
+    "Multi-LLM pipelines (Grok, GPT-4o, Gemini, Claude)",
+    "Eval-driven development with cost-optimized serverless",
+  ],
+  currentlyBuilding: "startuptribunal.com — 1,583 AI-validated startup ideas, $0.43/validation",
+  openTo: ["Senior IC", "FDE", "Solutions Architect", "Agent Economy Consulting"],
+};
+```
+
+---
+
+## 🚀 Flagship: StartupTribunal Agent Economy Platform
+
+> **Live production system** accepting real USDC payments from AI agents via the x402 protocol.
+
+| Layer | What's Running |
+|-------|---------------|
+| 🤖 **Agent API** | `/api/agent/catalog`, `/validate`, `/mcp/invoke` — structured JSON for machines |
+| 💰 **x402 Payments** | USDC on Base mainnet → MetaMask wallet. Coinbase facilitator verifies on-chain. |
+| 🔍 **MCP Discovery** | `/.well-known/mcp.json` — Claude & Cursor auto-discover 3 tools |
+| 📊 **Analytics** | Per-agent traffic, AI referral tracking, conversion attribution |
+| 🌍 **Coverage** | 1,583 ideas · 40+ countries · Africa/emerging markets focus |
+| 🔒 **Security** | Token validation, spending limits ($10/day), per-token rate limiting |
+
+```bash
+# Try it yourself
+curl https://startuptribunal.com/api/agent/schema          # OpenAPI spec
+curl https://startuptribunal.com/.well-known/mcp.json       # MCP manifest
+curl https://startuptribunal.com/api/agent/catalog?limit=3  # Free data
+```
+
+---
+
+## 💼 Service Offerings
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🏆 Agent Intelligence Transformation
+**4–10 weeks · $18k–$45k**
+
+Turn your data into a revenue-generating agent-native product.
+
+✓ x402 USDC payments<br/>
+✓ MCP auto-discovery<br/>
+✓ Multi-language agents<br/>
+✓ TollBit/Cloudflare<br/>
+✓ Spending limits + analytics<br/>
+✓ Public docs + handoff
+
+</td>
+<td width="33%" valign="top">
+
+### ⚡ AI Product MVP
+**4–8 weeks · Fixed scope**
+
+From idea to deployed production system.
+
+✓ Production codebase + CI/CD<br/>
+✓ Eval harness on AI components<br/>
+✓ Cost tracking per-request<br/>
+✓ Security headers + rate limiting<br/>
+✓ 30-day handoff window
+
+</td>
+<td width="33%" valign="top">
+
+### 🔧 Embedded FDE
+**1–3 months · Senior rate**
+
+Forward Deployed Engineer embedded in your team.
+
+✓ Daily PRs + reviews<br/>
+✓ Weekly demos<br/>
+✓ Clean handoff at exit<br/>
+✓ Documentation of every system<br/>
+✓ Async-first, PR-driven
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Frameworks**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+**AI / LLM**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude-D97706?style=for-the-badge)
+![xAI](https://img.shields.io/badge/Grok_(xAI)-000000?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini_2.0-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+**Cloud & Infra**
+
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Agent Economy**
+
+![x402](https://img.shields.io/badge/x402_Protocol-USDC_on_Base-0052FF?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-7C3AED?style=for-the-badge)
+![TollBit](https://img.shields.io/badge/TollBit-Pay_Per_Crawl-10B981?style=for-the-badge)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+
+</div>
+
+---
+
+## 📦 Shipped Work
+
+| Project | Role | What It Does | Stack |
+|---------|------|-------------|-------|
+| **[StartupTribunal](https://startuptribunal.com)** | Founder & Lead | AI startup validation platform, 1,583 catalog rows, $61/mo infra | Next.js · LangGraph · GCP · Grok |
+| **[Agent Intelligence Platform](https://startuptribunal.com/api/agent/schema)** | Architect | x402 USDC payments, MCP discovery, agent APIs | x402 · MCP · Stripe · Vercel KV |
+| **VibeJudge** | Lead Engineer | AI hackathon judging SaaS (AWS Lambda) | Python · AWS SAM · Bedrock |
+| **AgriGuard RAG** | AI Engineer | Agricultural advisory RAG for Ghanaian farmers | LangChain · pgvector · Django |
+| **Farmerline** | Senior Mobile | Platform connecting 1M+ farmers to markets | Kotlin · Android · Firebase |
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ma-za-kpe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818cf8&icon_color=7c3aed&text_color=94a3b8" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ma-za-kpe&theme=tokyonight&hide_border=true&background=0f172a&ring=818cf8&fire=7c3aed&currStreakLabel=818cf8" height="165"/>
+
+</div>
+
+---
+
+## 🌍 Location & Availability
+
+```
+📍 Based: Accra, Ghana
+🌐 Serving: Pan-African + Global (remote-first)
+⏰ Timezone: GMT+0 (overlaps with EU mornings, US afternoons)
+💬 Languages: English (native), working across 8 African markets
+```
+
+**Open to:**
+- Senior IC / Staff Engineer roles (AI-focused)
+- Forward Deployed Engineer engagements
+- Agent Economy consulting ($18k–$45k per project)
+- Advisory roles in AI/emerging market startups
+
+---
+
+<div align="center">
+
+### 📬 Let's Talk
+
+<a href="https://startuptribunal.com/maku"><img src="https://img.shields.io/badge/Portfolio-startuptribunal.com/maku-1e40af?style=for-the-badge" /></a>
+<a href="mailto:makpalyy@gmail.com"><img src="https://img.shields.io/badge/Email-makpalyy@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/maku-mazakpe"><img src="https://img.shields.io/badge/LinkedIn-Maku_Mazakpe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/makumazakpe"><img src="https://img.shields.io/badge/X-@makumazakpe-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://github.com/ma-za-kpe"><img src="https://img.shields.io/badge/GitHub-ma--za--kpe-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e40af,100:0f172a&height=100&section=footer" width="100%"/>
+
+</div>
