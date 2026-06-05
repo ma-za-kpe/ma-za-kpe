@@ -3,12 +3,18 @@
 <!-- Animated gradient header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:7c3aed&height=220&section=header&text=Maku%20Mazakpe&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B2B%20Agent%20Intelligence%20Architect%20%7C%20Production%20AI%20Engineer&descSize=18&descAlignY=55&descColor=94a3b8" width="100%"/>
 
-<br/>
-
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=I+turn+data+platforms+into+agent-native+intelligence+products;x402+%7C+MCP+%7C+LangGraph+%7C+Multi-LLM+%7C+Africa-built%2C+global-grade)](https://startuptribunal.com/maku)
-
-<br/>
+<div className="my-8">
+  <p className="text-2xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-violet-600 to-indigo-600 dark:from-violet-400 dark:to-indigo-400">
+    I turn data platforms into agent-native intelligence products
+  </p>
+  <div className="mt-3 text-sm font-mono text-gray-500 dark:text-gray-400 flex flex-wrap gap-x-4">
+    <span>x402 micropayments</span>
+    <span>MCP discovery</span>
+    <span>LangGraph orchestration</span>
+    <span>Multi-LLM routing</span>
+    <span>Africa-built • Global-grade</span>
+  </div>
+</div>
 
 <!-- Quick links -->
 <a href="https://startuptribunal.com/maku"><img src="https://img.shields.io/badge/🔗_Hire_Me-startuptribunal.com/maku-0f172a?style=for-the-badge&labelColor=1e40af" /></a>
