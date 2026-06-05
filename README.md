@@ -175,6 +175,8 @@ Forward Deployed Engineer embedded in your team.
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=ma-za-kpe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818cf8&icon_color=7c3aed&text_color=94a3b8&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ma-za-kpe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818cf8&icon_color=7c3aed&text_color=94a3b8" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api?username=ma-za-kpe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818cf8&icon_color=7c3aed&text_color=94a3b8" height="165"/>
 <img src="https://streak-stats.demolab.com?user=ma-za-kpe&theme=tokyonight&hide_border=true&background=0f172a&ring=818cf8&fire=7c3aed&currStreakLabel=818cf8" height="165"/>
 
